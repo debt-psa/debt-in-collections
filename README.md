@@ -27,21 +27,8 @@ TLDR: http://i.imgur.com/VoJiLUr.jpg (credit: /u/Jamesshrugged)
 ###Knowledge:  
 
 
-- https://www.identitytheft.gov/
-
-- [r/personalfinance ID theft wiki](https://www.reddit.com/r/personalfinance/wiki/identity_theft)
 
 - [r/personalfinance collections wiki](https://www.reddit.com/r/personalfinance/wiki/collections)
-
-- https://www.consumer.ftc.gov/articles/0497-credit-freeze-faqs
-
-- https://www.consumer.ftc.gov/articles/0277-create-identity-theft-report
-
-- https://www.chexsystems.com/web/chexsystems/consumerdebit/page/IdentityTheft/securityalert/
-
-- https://www.chexsystems.com/web/chexsystems/consumerdebit/page/IdentityTheft/IdentityTheftInformation/
-
-- https://www.chexsystems.com/web/chexsystems/consumerdebit/page/securityfreeze/placefreeze/
 
 - [FCRA Section 605(b)](https://www.consumer.ftc.gov/articles/pdf-0089-fcra-605b.pdf)
 
@@ -55,7 +42,7 @@ TLDR: http://i.imgur.com/VoJiLUr.jpg (credit: /u/Jamesshrugged)
 
 - [IRS Form 14039](https://www.irs.gov/pub/irs-pdf/f14039.pdf)
 
-- [How to deal with collection agencies](https://www.reddit.com/r/personalfinance/comments/81w58k/how_to_deal_with_collection_agencies/)
+- [How to deal with collection agencies](https://old.reddit.com/r/personalfinance/comments/81w58k/how_to_deal_with_collection_agencies/)
 
 - [Trying to negotiate a settlement?](https://old.reddit.com/r/personalfinance/comments/akfnjx/debt_collection_negotiation_script/)
   
@@ -63,17 +50,19 @@ TLDR: http://i.imgur.com/VoJiLUr.jpg (credit: /u/Jamesshrugged)
 
 ###Sample shareable letters:  
 
-- [Credit Institution, First Alert](https://www.mailcertified.com/letter/share?id=XNvTXAsbbKSRuNfKtroXMR1T6T0c-Gri99v1INkMG6Ar4)
-
-- [Response to Credit Institution](https://www.mailcertified.com/letter/share?id=5V3WX4WulzxHxc-Lz83JMaaLYQ69Gfdi-jM_dXFiiqpUZ)
-
-- [Request to Credit Bureau (CRA)](https://www.mailcertified.com/letter/share?id=szJngOl50cK9IVD4b5351CPiDgSCn2-aN-ULN98w4YcVN)
 
 - [FCRA Dispute Debt with Credit Bureau (CRA)](https://www.mailcertified.com/letter/share?id=UayMMhbs_Qgi9sOKxEcY70_lFQvtp0zuuoSQmc9xWyF3s)
 
 - [FDCPA Dispute Letter to Debt Collector](https://www.mailcertified.com/letter/share?id=Eyj5HTldeHsIgxhVO8_oLsT4AFRlH7jgLlL0j2u6YcDAT)
 
 - [Final to Debt Collector](https://www.mailcertified.com/letter/share?id=HpkPYbhDwNlODsLr-74KQ1XB1bxpHCodwL2ZmBtbk2WPc)
+
+- [Credit Institution, First Alert](https://www.mailcertified.com/letter/share?id=XNvTXAsbbKSRuNfKtroXMR1T6T0c-Gri99v1INkMG6Ar4)
+
+- [Response to Credit Institution](https://www.mailcertified.com/letter/share?id=5V3WX4WulzxHxc-Lz83JMaaLYQ69Gfdi-jM_dXFiiqpUZ)
+
+- [Request to Credit Bureau (CRA)](https://www.mailcertified.com/letter/share?id=szJngOl50cK9IVD4b5351CPiDgSCn2-aN-ULN98w4YcVN)
+
 
 
 ###Credit agencies:  
